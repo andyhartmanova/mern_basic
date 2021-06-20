@@ -1,0 +1,2 @@
+
+mongodb://cookbook:cSiOMAqPuQuh458j@cluster0-shard-00-00.zlbbg.mongodb.net:27017,cluster0-shard-00-01.zlbbg.mongodb.net:27017,cluster0-shard-00-02.zlbbg.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-5nfu80-shard-0&authSource=admin&retryWrites=true&w=majority
